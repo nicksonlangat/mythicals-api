@@ -1,10 +1,10 @@
 ## APP SCREENS
-![1](screenshots/1.png)
-![1](screenshots/2.png)
-![1](screenshots/3.png)
-![1](screenshots/4.png)
-![1](screenshots/5.png)
-![1](screenshots/6.png)
+![1](screenshots/1.PNG)
+![1](screenshots/2.PNG)
+![1](screenshots/3.PNG)
+![1](screenshots/4.PNG)
+![1](screenshots/5.PNG)
+![1](screenshots/6.PNG)
 ## Getting started
 These instructions will get you a copy of the project up and running in your local machine for development and testing purposes.
 
